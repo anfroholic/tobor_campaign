@@ -65,10 +65,10 @@ filename: sd/cta_final.evzr
 
 
 
-g = camera_slider.slider(script_time=24,
-                        pic_time=7,
+g = camera_slider.slider(script_time=48,
+                        pic_time=20,
                         begin=(0, 0, 0),
-                        end=(-380,30,0),
+                        end=(200,-20,0),
                         fast_mode=fast_mode,
                         )
 
